@@ -630,4 +630,5 @@ The current project provides the complete user-facing experience required for th
 
 ## 📄 License
 
-Add your preferred license before distributing or deploying the project.
+Not yet 
+
